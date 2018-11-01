@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 __author__ = "问道编程"
-__date__ = "2018-07-03 16:47"
+__date__ = "2018-10-13 "
 
 import xadmin
 from xadmin import views
